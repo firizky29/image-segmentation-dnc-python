@@ -1,1 +1,1 @@
-# image-segmentation-using-divide-and-conquer-algorithm
+# Image Segmentation
