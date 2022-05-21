@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `c:/Users/Firizky Ardiansyah/Documents/GitHub/image-segmentation-dnc-python'
+pip install -r requirements.txt
+python src/main.py
+make.exe: Leaving directory `c:/Users/Firizky Ardiansyah/Documents/GitHub/image-segmentation-dnc-python'
+ 
